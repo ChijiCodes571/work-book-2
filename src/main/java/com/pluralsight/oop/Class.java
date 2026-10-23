@@ -19,6 +19,8 @@ public class Class {
         peeps[1] = instructor;
         System.out.println("Hi " + pRetty.name + " you are " + pRetty.age + " years young");
 
+        Car[] cars = new Car[5];
+
     }
 
 
